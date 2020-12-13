@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\bin\Debug\RadioButtonKontrola.exe.config
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\bin\Debug\RadioButtonKontrola.exe
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\bin\Debug\RadioButtonKontrola.pdb
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.Form1.resources
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.exe
+C:\Users\Ante Ujcic\source\repos\RadioButtonKontrola\RadioButtonKontrola\obj\Debug\RadioButtonKontrola.pdb
